@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+.pnp.*
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Visual Studio Code files
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Built artifacts
+*.tgz
+*.gz
+
+# React specific
+*.js.map
